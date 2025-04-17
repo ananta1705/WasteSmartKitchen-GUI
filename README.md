@@ -43,7 +43,7 @@ Proyek ini masih dalam tahap pengembangan. Kami sedang membangun sistem manajeme
 - Arif Stand Pramudya  
 - Surya Bintang Agus Putra  
 
-Kelas: **SE-08-02**  
+
 Dosen Pengampu: **Dedy Agung Prabowo**
 
 ---
