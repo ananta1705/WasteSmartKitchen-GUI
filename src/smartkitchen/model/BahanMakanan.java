@@ -13,11 +13,11 @@ public class BahanMakanan {
     private int jumlah;
     private String tanggalKadaluarsa;
 
-    public BahanMakanan(String nama, int jumlah, String tanggalKadaluarsa) {
+        public BahanMakanan(String nama, int jumlah, String tanggalKadaluarsa) {
+            //unutk melihat nama variabel
         this.nama = nama;
         this.jumlah = jumlah;
         this.tanggalKadaluarsa = tanggalKadaluarsa;
     }
-
     // Getter & Setter
 }
