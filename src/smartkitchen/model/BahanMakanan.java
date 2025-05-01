@@ -15,9 +15,9 @@ public class BahanMakanan {
 
         public BahanMakanan(String nama, int jumlah, String tanggalKadaluarsa) {
             //unutk melihat nama variabel
-        this.nama = nama;
-        this.jumlah = jumlah;
-        this.tanggalKadaluarsa = tanggalKadaluarsa;
+        this.nama = nama; // nama untuk user
+        this.jumlah = jumlah; // jumlah bahan 
+        this.tanggalKadaluarsa = tanggalKadaluarsa; // input manual
     }
     // Getter & Setter
 }
