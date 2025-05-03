@@ -53,7 +53,8 @@ public class MainMenu extends javax.swing.JFrame {
                 txtNamaBahanActionPerformed(evt);
             }
         });
-
+//menambhakan jumlah dan kadaluarsa
+        
         jLabel2.setText("Jumlah");
 
         jLabel3.setText("Kadaluarsa");
