@@ -11,7 +11,7 @@ package smartkitchen.model;
 public class BahanMakanan {
     private String nama;
     private int jumlah;
-    private String tanggalKadaluarsa;
+    private String tanggalKadaluarsa; // sebagai tanggalkasaluarsa
 
         public BahanMakanan(String nama, int jumlah, String tanggalKadaluarsa) {
             //unutk melihat nama variabel
